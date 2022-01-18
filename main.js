@@ -1,2 +1,3 @@
-// import main scss file
-import './src/scss/main.scss';
+import './src/main.scss'
+
+import './src/app.js'
